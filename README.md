@@ -31,4 +31,4 @@ Accurate calorie estimation is crucial for personalized health and fitness manag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//calorie-burnt-prediction.git
+   git clone https://github.com/https://github.com/Gayatri492/project/calorie-burnt-prediction.git
